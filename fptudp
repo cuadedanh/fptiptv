@@ -25,10 +25,6 @@ udp://@225.1.2.86:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quoc te" tvg-id="WARNER TV" tvg-name="WARNER TV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png" ,WARNER TV
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quoc te" tvg-id="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" ,BLUE ANT ENTERTAINMENT
-udp://@225.1.1.203:30120
-#EXTINF:-1 group-title="Quoc te" tvg-id="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,BLUE ANT EXTREME
-udp://@225.1.1.204:30120
 #EXTINF:-1 group-title="Quoc te" tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" ,KIX
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="HTV" tvg-id="PARAMOUNT CHANNEL VIETNAM" tvg-name="HTVC PhimTruyen HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2259057-logo-htvcgiadin.png" ,HTVC film HD
