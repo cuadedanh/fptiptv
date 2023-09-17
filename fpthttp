@@ -37,10 +37,12 @@ http://192.168.11.1:9898/udp/225.1.1.211:30120
 http://192.168.11.1:9898/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png?w=282&mode=scale" ,DISCOVERY Asia
 http://192.168.11.1:9898/udp/225.1.2.223:30120
-#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg?w=282&mode=scale" ,ANIMAL PLANET
-http://192.168.11.1:9898/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="BBC EARTH" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC EARTH
 http://192.168.11.1:9898/udp/225.1.2.24:30120
+#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="History" tvg-name="History" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
+http://vthanhtivi.pw:5000/history/index.m3u8
+#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg?w=282&mode=scale" ,ANIMAL PLANET
+http://192.168.11.1:9898/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="LIFE_STYLE" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg?w=282&mode=scale" ,TLC
 http://192.168.11.1:9898/udp/225.1.1.236:30120
 #EXTINF:-1 group-title="LIFE_STYLE" tvg-id="Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" ,Outdoor Channel
