@@ -29,10 +29,6 @@ http://192.168.11.1:9898/udp/225.1.1.139:30120
 http://192.168.11.1:9898/udp/225.1.2.144:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="PARAMOUNT CHANNEL VIETNAM" tvg-name="HTVC PhimTruyen HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2259057-logo-htvcgiadin.png" ,HTVC film HD
 http://192.168.11.1:9898/udp/225.1.1.184:30120
-#EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="National Geographic HD" tvg-name="National Geographic" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9437839-logo-nationalge.png" ,National Geographic
-http://192.168.11.1:9898/udp/225.1.2.235:30120
-#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="National Geo Wild" tvg-name="National Geo Wild" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9437839-logo-nationalge.png" ,National Geo Wild
-http://192.168.11.1:9898/udp/225.1.1.211:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png?w=282&mode=scale" ,Discovery
 http://192.168.11.1:9898/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png?w=282&mode=scale" ,DISCOVERY Asia
@@ -91,8 +87,6 @@ http://192.168.11.1:9898/udp/225.1.2.148:30120
 http://192.168.11.1:9898/udp/225.1.2.171:30120
 #EXTINF:-1 group-title="FAMILY_KIDS" tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/868157-logo-cartoonnet.png" ,CARTOON NETWORK HD
 http://192.168.11.1:9898/udp/225.1.2.231:30120
-#EXTINF:-1 group-title="FAMILY_KIDS" tvg-id="Babytv HD" tvg-logo="https://imgstatic.vtvcab.vn/tvshows/CBG2/BAB_M.jpg" ,Babytv HD
-http://192.168.11.1:9898/udp/225.1.2.146:30120
 #EXTINF:-1 group-title="FAMILY_KIDS",Animax (HD 8Mbps)
 http://192.168.11.1:9898/udp/225.1.1.135:30120
 #EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLongTV1" tvg-name="THVL1" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9383024-logo-thvinhlong.png" ,THVL1
