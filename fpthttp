@@ -178,6 +178,8 @@ http://192.168.11.1:9898/udp/225.1.2.190:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-logo-white-hbo.png" ,HBO 12MB
 http://192.168.11.1:9898/udp/225.1.4.90:30120
 #-------------------test-------------------#
+#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FEED 0 SPORTS
+http://192.168.11.1:9898/udp/225.1.1.12:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FEED 1 SPORTS
 http://192.168.11.1:9898/udp/225.1.1.31:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FEED 2 SPORTS
