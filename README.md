@@ -18,3 +18,5 @@ https://s.net.vn/tv360 (link dự phòng cho các app báo lỗi 401)
 List IPTV độ trễ thấp (Có K+)
 https://tth.vn/iqcF
 https://s.net.vn/iiqcF (link dự phòng cho các app báo lỗi 401)
+https://tth.vn/listkplus
+https://s.net.vn/listkplus (dự phòng)
