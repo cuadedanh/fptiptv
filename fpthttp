@@ -28,7 +28,7 @@ http://192.168.11.1:9898/udp/225.1.1.142:30120
 http://192.168.11.1:9898/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" ,KIX
 http://192.168.11.1:9898/udp/225.1.2.144:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="PARAMOUNT CHANNEL VIETNAM" tvg-name="HTVC PhimTruyen HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2259057-logo-htvcgiadin.png" ,HTVC film HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="htvcphimhd" tvg-name="HTVC PhimTruyen HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2259057-logo-htvcgiadin.png" ,HTVC film HD
 http://192.168.11.1:9898/udp/225.1.1.184:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryhd" tvg-name="Discovery" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png?w=282&mode=scale" ,Discovery
 http://192.168.11.1:9898/udp/225.1.1.238:30120
@@ -72,31 +72,23 @@ http://192.168.11.1:9898/udp/225.1.4.69:30120
 http://192.168.11.1:9898/udp/225.1.2.21:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="MediaCorp Suria" tvg-name="MEDIACORP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/320px-MediaCorp_logo_December_2015.svg.png" ,MEDIACORP News Asia
 http://192.168.11.1:9898/udp/225.1.1.202:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="ANTV" tvg-name="ANTV HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/5049485-logo-truyenhinh.png" ,ANTV
+#EXTINF:-1 group-title="Chinh tri" tvg-id="ANTVHD" tvg-name="ANTV HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/5049485-logo-truyenhinh.png" ,ANTV
 http://192.168.11.1:9898/udp/225.1.2.169:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="THONG TAN XA VIET NAM" tvg-name="TTXVN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6438006-logo-ttxvn.png" ,TTXVN
-http://192.168.11.1:9898/udp/225.1.1.43:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="QUOC PHONG VIET NAM HD" tvg-name="QPVN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-04-01/8366444-1821327-logo-tr.png" ,QPVN
+#EXTINF:-1 group-title="Chinh tri" tvg-id="QPVNHD" tvg-name="QPVN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-04-01/8366444-1821327-logo-tr.png" ,QPVN
 http://192.168.11.1:9898/udp/225.1.2.217:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="TH NHAN DAN" tvg-name="NHAN DAN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-09-02/5717184-nhan-dan.jpg" ,NHAN DAN
-http://192.168.11.1:9898/udp/225.1.1.91:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="QUOC HOI" tvg-name="QUOC HOI" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2016-08-16/1108119-2452250-logo-qu.png" ,QUOC HOI
-http://192.168.11.1:9898/udp/225.1.2.148:30120
-#EXTINF:-1 group-title="Chinh tri" tvg-id="EPG N/A" tvg-name="VOV" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/04/vovtv-hd.png" ,VOV
-http://192.168.11.1:9898/udp/225.1.2.171:30120
 #EXTINF:-1 group-title="FAMILY_KIDS" tvg-id="cartoonhd" tvg-name="CARTOON NETWORK" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/868157-logo-cartoonnet.png" ,CARTOON NETWORK HD
 http://192.168.11.1:9898/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="FAMILY_KIDS",Animax (HD 8Mbps)
 http://192.168.11.1:9898/udp/225.1.1.135:30120
 #EXTINF:0 tvg-id="dreamworks" group-title="FAMILY_KIDS" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
 http://192.168.11.1:9898/udp/@225.1.1.136:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLongTV1" tvg-name="THVL1" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9383024-logo-thvinhlong.png" ,THVL1
+#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong1hd" tvg-name="THVL1" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9383024-logo-thvinhlong.png" ,THVL1
 http://192.168.11.1:9898/udp/225.1.1.155:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLongTV2" tvg-name="THVL2" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/5945073-logo-thvinhlong.png" ,THVL2
+#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong2hd" tvg-name="THVL2" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/5945073-logo-thvinhlong.png" ,THVL2
 http://192.168.11.1:9898/udp/225.1.1.154:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="HANOITV 1" tvg-name="HANOITV 1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/h1.png" ,Ha Noi 1
+#EXTINF:-1 group-title="Dia phuong" tvg-id="HANOI1" tvg-name="HANOITV 1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/h1.png" ,Ha Noi 1
 http://192.168.11.1:9898/udp/225.1.2.186:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="HANOITV 2" tvg-name="HANOITV 2" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/h2.png" ,Ha Noi 2
+#EXTINF:-1 group-title="Dia phuong" tvg-id="HANOI2" tvg-name="HANOITV 2" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/h2.png" ,Ha Noi 2
 http://192.168.11.1:9898/udp/225.1.1.125:30120
 #EXTINF:-1 group-title="Dia phuong" tvg-id="HAIPHONG" tvg-name="HAIPHONG" ,Hai Phong
 http://192.168.11.1:9898/udp/225.1.1.44:30120
@@ -126,27 +118,27 @@ http://192.168.11.1:9898/udp/225.1.1.222:30120
 http://192.168.11.1:9898/udp/225.1.1.188:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-name="HTV9 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6589775-logo-htv9hd-a.png" ,HTV9 HD
 http://192.168.11.1:9898/udp/225.1.1.190:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV7 HD" tvg-name="HTV7 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" ,HTV7 HD
+#EXTINF:-1 group-title="HTV" tvg-id="HTV7HD" tvg-name="HTV7 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" ,HTV7 HD
 http://192.168.11.1:9898/udp/225.1.1.192:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="HTVC THUAN VIET HD" tvg-name="HTVC ThuanViet HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-02-20/9667644-9189649-htvc-th.png" ,HTVC ThuanViet HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HTVCTHUANVIETHD" tvg-name="HTVC ThuanViet HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-02-20/9667644-9189649-htvc-th.png" ,HTVC ThuanViet HD
 http://192.168.11.1:9898/udp/225.1.4.62:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="FBNC" tvg-name="FBNC" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/fbnc.png" ,HTVC FBNC HD
 http://192.168.11.1:9898/udp/225.1.1.182:30120
-#EXTINF:-1 group-title="SPORTS" tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv-thethao.png" ,HTV - THE THAO
+#EXTINF:-1 group-title="SPORTS" tvg-id="HTVTHETHAOHD" tvg-name="HTV THE THAO" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv-thethao.png" ,HTV - THE THAO
 http://192.168.11.1:9898/udp/225.1.1.165:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV1" tvg-name="HTV1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv1.png" ,HTV1
 http://192.168.11.1:9898/udp/225.1.1.180:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV2 HD" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv2.png" ,HTV2
+#EXTINF:-1 group-title="HTV" tvg-id="HTV2HD" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv2.png" ,HTV2
 http://192.168.11.1:9898/udp/225.1.1.193:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV3" tvg-name="HTV3" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv3.png" ,HTV3
 http://192.168.11.1:9898/udp/225.1.1.178:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV4" tvg-name="HTV4" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv4.png" ,HTV4
 http://192.168.11.1:9898/udp/225.1.1.177:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="HTVC DU LICH CUOC SONG" tvg-name="HTVC DU LICH CUOC SONG" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htvc-dulichcuocsong.png" ,HTVC Du Lich Cuoc Song
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="HTVCDULICHHD" tvg-name="HTVC DU LICH CUOC SONG" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htvc-dulichcuocsong.png" ,HTVC Du Lich Cuoc Song
 http://192.168.11.1:9898/udp/225.1.1.166:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTVC GIA DINH" tvg-name="HTVC - Gia Dinh" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htvc-giadinh.png" ,HTVC - Gia Dinh
+#EXTINF:-1 group-title="HTV" tvg-id="HTVCGIADINHHD" tvg-name="HTVC - Gia Dinh" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htvc-giadinh.png" ,HTVC - Gia Dinh
 http://192.168.11.1:9898/udp/225.1.1.170:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTVC PHU NU HD" tvg-name="HTVC PHU NU HD" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/04/phunu-hd.png" ,HTVC - Phu Nu
+#EXTINF:-1 group-title="HTV" tvg-id="HTVCPHUNUHD" tvg-name="HTVC PHU NU HD" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/04/phunu-hd.png" ,HTVC - Phu Nu
 http://192.168.11.1:9898/udp/225.1.1.171:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-logo-white-hbo.png" ,HBO 12MB
 http://192.168.11.1:9898/udp/225.1.4.90:30120
