@@ -26,10 +26,16 @@ http://192.168.11.1:9898/udp/225.1.2.86:30120
 http://192.168.11.1:9898/udp/225.1.1.142:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="WARNERTVhd" tvg-name="WARNER TV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png" ,WARNER TV
 http://192.168.11.1:9898/udp/225.1.1.139:30120
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="AXNHD" tvg-name="AXN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png?w=282&mode=scale" ,AXN
+http://192.168.11.1:9898/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" ,KIX
 http://192.168.11.1:9898/udp/225.1.2.144:30120
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
+http://192.168.11.1:9898/udp/225.1.1.188:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="htvcphimhd" tvg-name="HTVC PhimTruyen HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2259057-logo-htvcgiadin.png" ,HTVC film HD
 http://192.168.11.1:9898/udp/225.1.1.184:30120
+#EXTINF:-1 group-title="SPORTS" tvg-id="HTVTHETHAOHD" tvg-name="HTV THE THAO" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv-thethao.png" ,HTV - THE THAO
+http://192.168.11.1:9898/udp/225.1.1.165:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryhd" tvg-name="Discovery" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png?w=282&mode=scale" ,Discovery
 http://192.168.11.1:9898/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png?w=282&mode=scale" ,DISCOVERY Asia
@@ -46,8 +52,6 @@ http://192.168.11.1:9898/udp/225.1.2.215:30120
 http://192.168.11.1:9898/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6182058-logo-davinci-a.png" ,Da Vinci
 http://192.168.11.1:9898/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="AXNHD" tvg-name="AXN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png?w=282&mode=scale" ,AXN
-http://192.168.11.1:9898/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="CNN" tvg-name="CNN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/4440420-logo-cnn-a.png" ,CNN
 http://192.168.11.1:9898/udp/225.1.4.17:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="bbcworldnews" tvg-name="BBC WORLDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png" ,BBC WORLDNEWS
@@ -116,16 +120,14 @@ http://192.168.11.1:9898/udp/225.1.1.206:30120
 http://192.168.11.1:9898/udp/225.1.1.222:30120
 #EXTINF:-1 group-title="SCTV" tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="http://tvmienphi.biz/uploads/tv_image/sctv6.png" ,SCTV6
 http://192.168.11.1:9898/udp/225.1.1.188:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-name="HTV9 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6589775-logo-htv9hd-a.png" ,HTV9 HD
-http://192.168.11.1:9898/udp/225.1.1.190:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV7HD" tvg-name="HTV7 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" ,HTV7 HD
 http://192.168.11.1:9898/udp/225.1.1.192:30120
+#EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-name="HTV9 HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6589775-logo-htv9hd-a.png" ,HTV9 HD
+http://192.168.11.1:9898/udp/225.1.1.190:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HTVCTHUANVIETHD" tvg-name="HTVC ThuanViet HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-02-20/9667644-9189649-htvc-th.png" ,HTVC ThuanViet HD
 http://192.168.11.1:9898/udp/225.1.4.62:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="FBNC" tvg-name="FBNC" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/fbnc.png" ,HTVC FBNC HD
 http://192.168.11.1:9898/udp/225.1.1.182:30120
-#EXTINF:-1 group-title="SPORTS" tvg-id="HTVTHETHAOHD" tvg-name="HTV THE THAO" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv-thethao.png" ,HTV - THE THAO
-http://192.168.11.1:9898/udp/225.1.1.165:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV1" tvg-name="HTV1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv1.png" ,HTV1
 http://192.168.11.1:9898/udp/225.1.1.180:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV2HD" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv2.png" ,HTV2
@@ -144,8 +146,6 @@ http://192.168.11.1:9898/udp/225.1.1.171:30120
 http://192.168.11.1:9898/udp/225.1.3.127:30120
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
 http://192.168.11.1:9898/udp/225.1.3.98:30120
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
-http://192.168.11.1:9898/udp/225.1.1.188:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-logo-white-hbo.png" ,HBO 12MB
 http://192.168.11.1:9898/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="CINEMAWORLDHD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
