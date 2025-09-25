@@ -1,4 +1,4 @@
-lịch phát sóng: https://lichphatsong.xyz/schedule/epg.xml
+lịch phát sóng: https://lichphatsong.site/schedule/epg.xml
 xêm các list còn sống ở đây
 https://wiki.cuki.me/vi/media
 
