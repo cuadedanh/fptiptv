@@ -11,13 +11,15 @@ http://192.168.1.1:9898/udp/225.1.2.20:30120
 #EXTINF:-1 group-title="VTV" tvg-id="VTV5 HD" tvg-name="VTV5" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/2663328-logo-vtv5.png" ,VTV5
 http://192.168.1.1:9898/udp/225.1.1.131:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtvcantho" tvg-name="VTV6" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2016-08-17/4483-vtv6-hd.png" ,VTV6
-http://192.168.1.1:9898/udp/225.1.2.245:30120
+http://192.168.1.1:9898/udp/225.1.2.154:30120
 #EXTINF:-1 group-title="VTV" tvg-id="VTV7 HD" tvg-name="VTV7" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/VTV7_HD.png" ,VTV7
 http://192.168.1.1:9898/udp/225.1.2.96:30120
 #EXTINF:-1 group-title="VTV" tvg-id="VTV8 HD" tvg-name="VTV8" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2016-08-16/1489795-vtv8-hd-png.png" ,VTV8
 http://192.168.1.1:9898/udp/225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/320px-VTV9_HD.png" ,VTV9
 http://192.168.1.1:9898/udp/225.1.1.128:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV10" tvg-name="VTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/330px-VTV10_logo_2026.png" ,VTV10
+http://192.168.1.1:9898/udp/225.1.2.245:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-logo-white-hbo.png" ,HBO
 http://192.168.1.1:9898/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxhd" tvg-name="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png" ,Cinemax
