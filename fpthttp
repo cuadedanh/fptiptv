@@ -1,34 +1,34 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #url-tvg="http://rebrand.ly/vnepg"
-#EXTINF:-1 group-title="NEWS" tvg-id="VTV1 HD" tvg-name="VTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/VTV1_logo_2023.svg/320px-VTV1_logo_2023.svg.png" ,VTV1
+#EXTINF:-1 group-title="NEWS" tvg-id="VTV1 HD" tvg-name="VTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/VTV1_logo_2023.svg/300px-VTV1_logo_2023.svg.png" ,VTV1
 http://192.168.1.1:9898/udp/225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV2 HD" tvg-name="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/VTV2_logo_2023.svg/320px-VTV2_logo_2023.svg.png" ,VTV2
+#EXTINF:-1 group-title="VTV" tvg-id="VTV2 HD" tvg-name="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/VTV2_logo_2023.svg/300px-VTV2_logo_2023.svg.png" ,VTV2
 http://192.168.1.1:9898/udp/225.1.2.13:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV3 HD" tvg-name="VTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/VTV3_logo_2023.svg/320px-VTV3_logo_2023.svg.png" ,VTV3
+#EXTINF:-1 group-title="VTV" tvg-id="VTV3 HD" tvg-name="VTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/VTV3_logo_2023.svg/300px-VTV3_logo_2023.svg.png" ,VTV3
 http://192.168.1.1:9898/udp/225.1.2.247:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV4 HD" tvg-name="VTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/VTV4_logo_2023.svg/320px-VTV4_logo_2023.svg.png" ,VTV4
+#EXTINF:-1 group-title="VTV" tvg-id="VTV4 HD" tvg-name="VTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/VTV4_logo_2023.svg/300px-VTV4_logo_2023.svg.png" ,VTV4
 http://192.168.1.1:9898/udp/225.1.2.20:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV5 HD" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/VTV5_logo_2023.svg/320px-VTV5_logo_2023.svg.png" ,VTV5
+#EXTINF:-1 group-title="VTV" tvg-id="VTV5 HD" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/VTV5_logo_2023.svg/300px-VTV5_logo_2023.svg.png" ,VTV5
 http://192.168.1.1:9898/udp/225.1.1.131:30120
-#EXTINF:-1 group-title="VTV" tvg-id="vtvcantho" tvg-name="VTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/VTV_C%E1%BB%A3_Th%C6%A1_logo_2023.svg/320px-VTV_C%E1%BB%A3_Th%C6%A1_logo_2023.svg.png" ,VTV6
+#EXTINF:-1 group-title="VTV" tvg-id="vtvcantho" tvg-name="VTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/VTV_C%E1%BB%A3_Th%C6%A1_logo_2023.svg/300px-VTV_C%E1%BB%A3_Th%C6%A1_logo_2023.svg.png" ,VTV6
 http://192.168.1.1:9898/udp/225.1.2.154:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV7 HD" tvg-name="VTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VTV7_logo_2023.svg/320px-VTV7_logo_2023.svg.png" ,VTV7
+#EXTINF:-1 group-title="VTV" tvg-id="VTV7 HD" tvg-name="VTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VTV7_logo_2023.svg/300px-VTV7_logo_2023.svg.png" ,VTV7
 http://192.168.1.1:9898/udp/225.1.2.96:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV8 HD" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/VTV8_logo_2023.svg/320px-VTV8_logo_2023.svg.png" ,VTV8
+#EXTINF:-1 group-title="VTV" tvg-id="VTV8 HD" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/VTV8_logo_2023.svg/300px-VTV8_logo_2023.svg.png" ,VTV8
 http://192.168.1.1:9898/udp/225.1.2.166:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/VTV9_logo_2023.svg/320px-VTV9_logo_2023.svg.png" ,VTV9
+#EXTINF:-1 group-title="VTV" tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/VTV9_logo_2023.svg/300px-VTV9_logo_2023.svg.png" ,VTV9
 http://192.168.1.1:9898/udp/225.1.1.128:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV10" tvg-name="VTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/330px-VTV10_logo_2026.png" ,VTV10
+#EXTINF:-1 group-title="VTV" tvg-id="VTV10" tvg-name="VTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/300px-VTV10_logo_2026.png" ,VTV10
 http://192.168.1.1:9898/udp/225.1.2.245:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" ,HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" ,HBO
 http://192.168.1.1:9898/udp/225.1.4.90:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxhd" tvg-name="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png" ,Cinemax
+#EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxhd" tvg-name="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/200px-611-cinemax.png" ,Cinemax
 http://192.168.1.1:9898/udp/225.1.2.86:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAWORLDHD" tvg-name="CINEMA WORLD" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" ,CINEMA WORLD
 http://192.168.1.1:9898/udp/225.1.1.142:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="WARNERTVhd" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Warner_TV_logo.svg/320px-Warner_TV_logo.svg.png" ,WARNER TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="WARNERTVhd" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Warner_TV_logo.svg/300px-Warner_TV_logo.svg.png" ,WARNER TV
 http://192.168.1.1:9898/udp/225.1.1.139:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="AXNHD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AXN_logo.svg/320px-AXN_logo.svg.png" ,AXN
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="AXNHD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AXN_logo.svg/300px-AXN_logo.svg.png" ,AXN
 http://192.168.1.1:9898/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" ,KIX
 http://192.168.1.1:9898/udp/225.1.2.144:30120
@@ -38,15 +38,15 @@ http://192.168.1.1:9898/udp/225.1.1.188:30120
 http://192.168.1.1:9898/udp/225.1.1.184:30120
 #EXTINF:-1 group-title="SPORTS" tvg-id="HTVTHETHAOHD" tvg-name="HTV THE THAO" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv-thethao.png" ,HTV - THE THAO
 http://192.168.1.1:9898/udp/225.1.1.165:30120
-#EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryhd" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Discovery_Channel_logo.svg/320px-Discovery_Channel_logo.svg.png" ,Discovery
+#EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryhd" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Discovery_Channel_logo.svg/300px-Discovery_Channel_logo.svg.png" ,Discovery
 http://192.168.1.1:9898/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png?w=282&mode=scale" ,DISCOVERY Asia
 http://192.168.1.1:9898/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/BBC_Earth_logo.png" ,BBC EARTH
 http://192.168.1.1:9898/udp/225.1.2.24:30120
-#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="Animalhd" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Animal_Planet_logo_2018.svg/320px-Animal_Planet_logo_2018.svg.png" ,ANIMAL PLANET
+#EXTINF:-1 group-title="ANIMAL_WILDLIFE" tvg-id="Animalhd" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Animal_Planet_logo_2018.svg/300px-Animal_Planet_logo_2018.svg.png" ,ANIMAL PLANET
 http://192.168.1.1:9898/udp/225.1.1.231:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="TLCHD" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC_logo.svg/320px-TLC_logo.svg.png" ,TLC
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="TLCHD" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC_logo.svg/300px-TLC_logo.svg.png" ,TLC
 http://192.168.1.1:9898/udp/225.1.1.236:30120
 #EXTINF:-1 group-title="LIFE_STYLE" tvg-id="OutdoorHD" tvg-name="Outdoor Channel" tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" ,Outdoor Channel
 http://192.168.1.1:9898/udp/225.1.2.215:30120
@@ -54,43 +54,43 @@ http://192.168.1.1:9898/udp/225.1.2.215:30120
 http://192.168.1.1:9898/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="TECH_SCIENCE" tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6182058-logo-davinci-a.png" ,Da Vinci
 http://192.168.1.1:9898/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" ,CNN
+#EXTINF:-1 group-title="NEWS" tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/300px-CNN.svg.png" ,CNN
 http://192.168.1.1:9898/udp/225.1.4.17:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="bbcworldnews" tvg-name="BBC WORLDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/320px-BBC_News_2022.svg.png" ,BBC WORLDNEWS
+#EXTINF:-1 group-title="NEWS" tvg-id="bbcworldnews" tvg-name="BBC WORLDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/300px-BBC_News_2022.svg.png" ,BBC WORLDNEWS
 http://192.168.1.1:9898/udp/225.1.2.74:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="bbclifestyle" tvg-name="BBC LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/320px-BBC_Lifestyle2.svg.png" ,BBC LIFE
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="bbclifestyle" tvg-name="BBC LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/300px-BBC_Lifestyle2.svg.png" ,BBC LIFE
 http://192.168.1.1:9898/udp/225.1.2.52:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo_2012.svg/320px-Deutsche_Welle_logo_2012.svg.png" ,DW
+#EXTINF:-1 group-title="NEWS" tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo_2012.svg/300px-Deutsche_Welle_logo_2012.svg.png" ,DW
 http://192.168.1.1:9898/udp/225.1.1.46:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/320px-CNBC_logo.svg.png" ,CNBC
+#EXTINF:-1 group-title="NEWS" tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/300px-CNBC_logo.svg.png" ,CNBC
 http://192.168.1.1:9898/udp/225.1.1.227:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="TV5 Asie" tvg-name="TV5 MONDE ASIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TV5MONDE_logo.svg/320px-TV5MONDE_logo.svg.png" ,TV5 MONDE ASIE
+#EXTINF:-1 group-title="NEWS" tvg-id="TV5 Asie" tvg-name="TV5 MONDE ASIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TV5MONDE_logo.svg/300px-TV5MONDE_logo.svg.png" ,TV5 MONDE ASIE
 http://192.168.1.1:9898/udp/225.1.1.200:30120
-#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fashion_TV_logo.svg/320px-Fashion_TV_logo.svg.png" ,Fashion TV
+#EXTINF:-1 group-title="LIFE_STYLE" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fashion_TV_logo.svg/300px-Fashion_TV_logo.svg.png" ,Fashion TV
 http://192.168.1.1:9898/udp/225.1.2.227:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="NHK" tvg-name="NHK WORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NHK_World_Japan_logo.svg/320px-NHK_World_Japan_logo.svg.png" ,NHK WORD
+#EXTINF:-1 group-title="NEWS" tvg-id="NHK" tvg-name="NHK WORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NHK_World_Japan_logo.svg/300px-NHK_World_Japan_logo.svg.png" ,NHK WORD
 http://192.168.1.1:9898/udp/225.1.1.47:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="Arirang" tvg-name="ARIRANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arirang_TV_logo.svg/320px-Arirang_TV_logo.svg.png" ,ARIRANG
+#EXTINF:-1 group-title="NEWS" tvg-id="Arirang" tvg-name="ARIRANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arirang_TV_logo.svg/300px-Arirang_TV_logo.svg.png" ,ARIRANG
 http://192.168.1.1:9898/udp/225.1.1.201:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/325px-KBS_World.svg.png" ,KBS World
+#EXTINF:-1 group-title="NEWS" tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/300px-KBS_World.svg.png" ,KBS World
 http://192.168.1.1:9898/udp/225.1.4.69:30120
 #EXTINF:-1 group-title="NEWS" tvg-id="AUSTRALIA PLUS" tvg-name="Australia Plus" tvg-logo="https://yt3.ggpht.com/-YBAwzp9qQ1o/AAAAAAAAAAI/AAAAAAAAAAA/CoaoaqDCWeQ/s900-c-k-no/photo.jpg" ,Australia Plus
 http://192.168.1.1:9898/udp/225.1.2.21:30120
-#EXTINF:-1 group-title="NEWS" tvg-id="MediaCorp Suria" tvg-name="MEDIACORP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/320px-MediaCorp_logo_December_2015.svg.png" ,MEDIACORP News Asia
+#EXTINF:-1 group-title="NEWS" tvg-id="MediaCorp Suria" tvg-name="MEDIACORP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/300px-MediaCorp_logo_December_2015.svg.png" ,MEDIACORP News Asia
 http://192.168.1.1:9898/udp/225.1.1.202:30120
 #EXTINF:-1 group-title="Chinh tri" tvg-id="ANTVHD" tvg-name="ANTV HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/5049485-logo-truyenhinh.png" ,ANTV
 http://192.168.1.1:9898/udp/225.1.2.169:30120
 #EXTINF:-1 group-title="Chinh tri" tvg-id="QPVNHD" tvg-name="QPVN" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-04-01/8366444-1821327-logo-tr.png" ,QPVN
 http://192.168.1.1:9898/udp/225.1.2.217:30120
-#EXTINF:-1 group-title="FAMILY_KIDS" tvg-id="cartoonhd" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK HD
+#EXTINF:-1 group-title="FAMILY_KIDS" tvg-id="cartoonhd" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK HD
 http://192.168.1.1:9898/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="FAMILY_KIDS",Animax (HD 8Mbps)
 http://192.168.1.1:9898/udp/225.1.1.135:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="FAMILY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DreamWorks_Animation_Television_logo.svg/320px-DreamWorks_Animation_Television_logo.svg.png",Dreamworks
+#EXTINF:0 tvg-id="dreamworks" group-title="FAMILY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DreamWorks_Animation_Television_logo.svg/300px-DreamWorks_Animation_Television_logo.svg.png",Dreamworks
 http://192.168.1.1:9898/udp/@225.1.1.136:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong1hd" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_THVL.svg/320px-Logo_THVL.svg.png" ,THVL1
+#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong1hd" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_THVL.svg/300px-Logo_THVL.svg.png" ,THVL1
 http://192.168.1.1:9898/udp/225.1.1.155:30120
-#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong2hd" tvg-name="THVL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_THVL.svg/320px-Logo_THVL.svg.png" ,THVL2
+#EXTINF:-1 group-title="Dia phuong" tvg-id="VinhLong2hd" tvg-name="THVL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_THVL.svg/300px-Logo_THVL.svg.png" ,THVL2
 http://192.168.1.1:9898/udp/225.1.1.154:30120
 #EXTINF:-1 group-title="Dia phuong" tvg-id="HANOI1" tvg-name="HANOITV 1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/h1.png" ,Ha Noi 1
 http://192.168.1.1:9898/udp/225.1.2.186:30120
@@ -120,11 +120,11 @@ http://192.168.1.1:9898/udp/225.1.1.207:30120
 http://192.168.1.1:9898/udp/225.1.1.206:30120
 #EXTINF:-1 group-title="HANOICAB" tvg-id="EPG N/A" tvg-name="PHIM HAY" tvg-logo="Logo N/A" ,HANOI CAB - PHIM HAY
 http://192.168.1.1:9898/udp/225.1.1.222:30120
-#EXTINF:-1 group-title="SCTV" tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" ,SCTV6
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SCTV_Logo.svg/300px-SCTV_Logo.svg.png" ,SCTV6
 http://192.168.1.1:9898/udp/225.1.1.188:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV7HD" tvg-name="HTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/HTV7_logo_2016.svg/320px-HTV7_logo_2016.svg.png" ,HTV7 HD
+#EXTINF:-1 group-title="HTV" tvg-id="HTV7HD" tvg-name="HTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/HTV7_logo_2016.svg/300px-HTV7_logo_2016.svg.png" ,HTV7 HD
 http://192.168.1.1:9898/udp/225.1.1.192:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-name="HTV9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HTV9_logo_2016.svg/320px-HTV9_logo_2016.svg.png" ,HTV9 HD
+#EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-name="HTV9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HTV9_logo_2016.svg/300px-HTV9_logo_2016.svg.png" ,HTV9 HD
 http://192.168.1.1:9898/udp/225.1.1.190:30120
 #EXTINF:-1 group-title="MOVIES" tvg-id="HTVCTHUANVIETHD" tvg-name="HTVC ThuanViet HD" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-02-20/9667644-9189649-htvc-th.png" ,HTVC ThuanViet HD
 http://192.168.1.1:9898/udp/225.1.4.62:30120
@@ -132,9 +132,9 @@ http://192.168.1.1:9898/udp/225.1.4.62:30120
 http://192.168.1.1:9898/udp/225.1.1.182:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV1" tvg-name="HTV1" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv1.png" ,HTV1
 http://192.168.1.1:9898/udp/225.1.1.180:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vie_Channel_-_HTV2_logo.svg/320px-Vie_Channel_-_HTV2_logo.svg.png" ,HTV2
+#EXTINF:-1 group-title="HTV" tvg-id="HTV2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vie_Channel_-_HTV2_logo.svg/300px-Vie_Channel_-_HTV2_logo.svg.png" ,HTV2
 http://192.168.1.1:9898/udp/225.1.1.193:30120
-#EXTINF:-1 group-title="HTV" tvg-id="HTV3" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/HTV3_DreamsTV_logo.svg/320px-HTV3_DreamsTV_logo.svg.png" ,HTV3
+#EXTINF:-1 group-title="HTV" tvg-id="HTV3" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/HTV3_DreamsTV_logo.svg/300px-HTV3_DreamsTV_logo.svg.png" ,HTV3
 http://192.168.1.1:9898/udp/225.1.1.178:30120
 #EXTINF:-1 group-title="HTV" tvg-id="HTV4" tvg-name="HTV4" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/06/htv4.png" ,HTV4
 http://192.168.1.1:9898/udp/225.1.1.177:30120
@@ -148,11 +148,11 @@ http://192.168.1.1:9898/udp/225.1.1.171:30120
 http://192.168.1.1:9898/udp/225.1.3.127:30120
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
 http://192.168.1.1:9898/udp/225.1.3.98:30120
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" ,HBO 12MB
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" ,HBO 12MB
 http://192.168.1.1:9898/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="CINEMAWORLDHD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 http://192.168.1.1:9898/udp/225.1.1.142:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png",Cinemax (HD 8Mbps)
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/200px-611-cinemax.png",Cinemax (HD 8Mbps)
 http://192.168.1.1:9898/udp/225.1.2.86:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://192.168.1.1:9898/udp/225.1.1.139:30120
